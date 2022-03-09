@@ -1,0 +1,31 @@
+// Copyright © Radyslav Krechet. All rights reserved.
+
+"tab_label_characters" = "Персонажі";
+"tab_label_episodes" = "Серії";
+"characters_collection_navigation_title" = "Персонажі";
+"characters_collection_row_title_featured" = "Рекомендовані";
+"characters_collection_row_button_see_all" = "Всі";
+"characters_list_empty_message" = "Персонажів немає";
+"character_details_navigation_title" = "Персонаж";
+"character_details_text_status" = "Статус";
+"character_details_text_species" = "Вид";
+"character_details_text_home" = "Дім";
+"character_details_text_place" = "Місце останньої появи";
+"character_details_text_alive" = "Живий";
+"character_details_text_dead" = "Мертвий";
+"episodes_list_navigation_title" = "Серії";
+"episodes_list_empty_message" = "Серій немає";
+"episode_details_navigation_title" = "Серія";
+"episode_details_text_episode %lld" = "Серія: %lld";
+"episode_details_text_season %lld" = "Сезон: %lld";
+"episode_details_text_air_date %@" = "Дата показу: %@";
+"episode_details_section_header" = "Деякі персонажі";
+"loading_text" = "Завантаження";
+"error_button_retry" = "Повторити";
+
+"gender_female" = "Жінки";
+"gender_male" = "Чоловіки";
+"gender_genderless" = "Безстатеві";
+"gender_unknown" = "Невідомої статі";
+"error_connection_failure_message" = "З’єднання втрачено";
+"error_fetching_failure_message" = "Щось пішло не так";

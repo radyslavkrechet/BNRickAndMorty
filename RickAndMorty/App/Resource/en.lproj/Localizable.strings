@@ -1,0 +1,31 @@
+// Copyright © Radyslav Krechet. All rights reserved.
+
+"tab_label_characters" = "Characters";
+"tab_label_episodes" = "Episodes";
+"characters_collection_navigation_title" = "Characters";
+"characters_collection_row_title_featured" = "Featured";
+"characters_collection_row_button_see_all" = "See All";
+"characters_list_empty_message" = "No characters";
+"character_details_navigation_title" = "Character";
+"character_details_text_status" = "Status";
+"character_details_text_species" = "Species";
+"character_details_text_home" = "Home";
+"character_details_text_place" = "Last appearance place";
+"character_details_text_alive" = "Alive";
+"character_details_text_dead" = "Dead";
+"episodes_list_navigation_title" = "Episodes";
+"episodes_list_empty_message" = "No episodes";
+"episode_details_navigation_title" = "Episode";
+"episode_details_text_episode %lld" = "Episode: %lld";
+"episode_details_text_season %lld" = "Season: %lld";
+"episode_details_text_air_date %@" = "Air date: %@";
+"episode_details_section_header" = "Some appeared characters";
+"loading_text" = "Loading";
+"error_button_retry" = "Retry";
+
+"gender_female" = "Female";
+"gender_male" = "Male";
+"gender_genderless" = "Genderless";
+"gender_unknown" = "Unknown";
+"error_connection_failure_message" = "Connection is lost";
+"error_fetching_failure_message" = "Something went wrong";
